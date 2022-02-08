@@ -678,6 +678,15 @@ footer span a:hover{
 }
 
 @media (max-width: 500px) {
+    .topbarlink{
+        display: inline-block;
+        margin-left: 2px;
+    }
+    .ionicons{
+        display: flex;
+        float: left;
+        margin-left: 10px;
+    }
     .home .home-content .text-2{
         font-size: 50px;
     }
